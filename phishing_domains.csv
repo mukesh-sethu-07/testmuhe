@@ -1,0 +1,327 @@
+Domain,Risk Level,Risk Score,Indicators,Status
+7k-77.casino,CRITICAL,150,Contains JavaScript redirects; Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 2 found; No valid SSL certificate; Uses suspicious TLD: .casino,analyzed
+1kppw-sdid3.shop,CRITICAL,145,Contains JavaScript redirects; Contains high-risk phishing phrases: 1 found; Contains credential harvesting phrases: 1 found; Mentions well-known brands: 4 found; Uses urgency/scarcity tactics: 1 found; No valid SSL certificate; Uses suspicious TLD: .shop,analyzed
+arkadalink.casino,CRITICAL,145,Contains JavaScript redirects; Contains high-risk phishing phrases: 1 found; Mentions well-known brands: 2 found; Contains financial scam keywords: 3 found; Online gambling/casino content: 1 found; No valid SSL certificate; Uses suspicious TLD: .casino,analyzed
+joyslot-88.online,CRITICAL,145,Contains login form; Contains 1 password input field(s); Contains JavaScript redirects; Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 4 found; Uses suspicious TLD: .online,analyzed
+joyslot-88.space,CRITICAL,145,Contains login form; Contains 1 password input field(s); Contains JavaScript redirects; Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 4 found; Uses suspicious TLD: .space,analyzed
+joyslot-88.site,CRITICAL,145,Contains login form; Contains 1 password input field(s); Contains JavaScript redirects; Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 4 found; Uses suspicious TLD: .site,analyzed
+joyslot-88.store,CRITICAL,145,Contains login form; Contains 1 password input field(s); Contains JavaScript redirects; Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 4 found; Uses suspicious TLD: .store,analyzed
+desadio19d.shop,CRITICAL,140,Contains JavaScript redirects; Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .shop,analyzed
+konoha777.site,CRITICAL,140,Contains login form; Contains 1 password input field(s); Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 3 found; No valid SSL certificate; Uses suspicious TLD: .site,analyzed
+livancetesteapp2.com.br,CRITICAL,135,Contains login form; Contains 1 email input field(s); Contains 1 iframe(s); Contains high-risk phishing phrases: 1 found; Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate,analyzed
+18iya777.com,CRITICAL,130,Contains login form; Contains 1 password input field(s); Contains JavaScript redirects; Mentions well-known brands: 3 found; Contains financial scam keywords: 2 found; Online gambling/casino content: 4 found,analyzed
+02iya777.org,CRITICAL,130,Contains login form; Contains 1 password input field(s); Contains JavaScript redirects; Mentions well-known brands: 3 found; Contains financial scam keywords: 2 found; Online gambling/casino content: 4 found,analyzed
+konoha777.online,CRITICAL,130,Contains login form; Contains 1 password input field(s); Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 3 found; Uses suspicious TLD: .online,analyzed
+konoha777.space,CRITICAL,130,Contains login form; Contains 1 password input field(s); Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 3 found; Uses suspicious TLD: .space,analyzed
+konoha777.shop,CRITICAL,130,Contains login form; Contains 1 password input field(s); Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 3 found; Uses suspicious TLD: .shop,analyzed
+challengeszone.pro,CRITICAL,125,Contains JavaScript redirects; Contains credential harvesting phrases: 1 found; Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; No valid SSL certificate; Uses suspicious TLD: .pro,analyzed
+goldiwin.casino,CRITICAL,125,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 2 found; Uses suspicious TLD: .casino,analyzed
+kencanabet99.top,CRITICAL,125,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 2 found; Uses suspicious TLD: .top,analyzed
+realcoupon.in,CRITICAL,125,Contains high-risk phishing phrases: 1 found; Contains credential harvesting phrases: 1 found; Mentions well-known brands: 6 found; Uses urgency/scarcity tactics: 4 found; Contains financial scam keywords: 1 found,analyzed
+spiderbets.casino,CRITICAL,125,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 2 found; Uses suspicious TLD: .casino,analyzed
+getx061125.casino,CRITICAL,120,Contains JavaScript redirects; Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .casino,analyzed
+getx0611.casino,CRITICAL,120,Contains JavaScript redirects; Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .casino,analyzed
+gwbd47x.casino,CRITICAL,120,Contains JavaScript redirects; Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .casino,analyzed
+mellstroy999.casino,CRITICAL,120,Contains JavaScript redirects; Contains credential harvesting phrases: 1 found; Mentions well-known brands: 4 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .casino,analyzed
+brontyphos.pro,CRITICAL,115,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Online gambling/casino content: 1 found; No valid SSL certificate; Uses suspicious TLD: .pro,analyzed
+moncoachlocatif.fr,CRITICAL,115,Contains high-risk phishing phrases: 2 found; Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; Online gambling/casino content: 1 found,analyzed
+serre-reheat-onlay.site,CRITICAL,115,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found; No valid SSL certificate; Uses suspicious TLD: .site,analyzed
+trucoswin.pro,CRITICAL,115,Contains JavaScript redirects; Contains high-risk phishing phrases: 3 found; Mentions well-known brands: 2 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .pro,analyzed
+bcgame.host,CRITICAL,110,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 8 found; Contains financial scam keywords: 2 found; Online gambling/casino content: 7 found,analyzed
+blackcliniciansmeet.org,CRITICAL,110,Contains obfuscated JavaScript; Contains high-risk phishing phrases: 1 found; Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+bcgame.claims,CRITICAL,110,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 8 found; Contains financial scam keywords: 2 found; Online gambling/casino content: 7 found,analyzed
+denemebonusuremake.com,CRITICAL,110,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 2 found,analyzed
+officialarkada.casino,CRITICAL,110,Contains JavaScript redirects; Contains high-risk phishing phrases: 1 found; Mentions well-known brands: 1 found; Contains financial scam keywords: 1 found; Uses suspicious TLD: .casino,analyzed
+play-baxterbet.org,CRITICAL,110,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 4 found,analyzed
+play-fishroad.games,CRITICAL,110,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 2 found,analyzed
+brynteso.icu,CRITICAL,105,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .icu,analyzed
+brontvexar.best,CRITICAL,105,Contains high-risk phishing phrases: 1 found; Contains credential harvesting phrases: 1 found; Mentions well-known brands: 8 found; Uses suspicious TLD: .best,analyzed
+cover-pogos-local.shop,CRITICAL,105,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .shop,analyzed
+design-district.store,CRITICAL,105,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .store,analyzed
+eu9.org.uk,CRITICAL,105,Contains JavaScript redirects; Contains 1 iframe(s); Mentions well-known brands: 5 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 1 found,analyzed
+fluxarion.space,CRITICAL,105,Contains high-risk phishing phrases: 1 found; Contains credential harvesting phrases: 2 found; Mentions well-known brands: 7 found; Uses suspicious TLD: .space,analyzed
+faelgrynd.best,CRITICAL,105,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .best,analyzed
+ligawin138-gg.top,CRITICAL,105,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .top,analyzed
+phexorath.art,CRITICAL,105,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .art,analyzed
+neruvota.icu,CRITICAL,105,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .icu,analyzed
+ottmaxx.com,CRITICAL,105,Contains login form; Contains JavaScript redirects; Contains high-risk phishing phrases: 3 found; Mentions well-known brands: 6 found; Uses urgency/scarcity tactics: 1 found,analyzed
+rucwoolexit.shop,CRITICAL,105,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .shop,analyzed
+sythralux.xyz,CRITICAL,105,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .xyz,analyzed
+sanex138.top,CRITICAL,105,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .top,analyzed
+birdhousecreations.com,CRITICAL,100,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found; No valid SSL certificate,analyzed
+mhj333jp.store,CRITICAL,100,Contains high-risk phishing phrases: 1 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .store,analyzed
+mhj333jp.space,CRITICAL,100,Contains high-risk phishing phrases: 1 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .space,analyzed
+valthrynd.art,CRITICAL,100,Contains high-risk phishing phrases: 1 found; Mentions well-known brands: 10 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .art,analyzed
+brex.com.bz,CRITICAL,95,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 7 found; Redirects to different domain: brex.com.bz:443; No valid SSL certificate,analyzed
+jogosdeperto.online,CRITICAL,95,Contains obfuscated JavaScript; Contains high-risk phishing phrases: 2 found; Mentions well-known brands: 6 found; Uses suspicious TLD: .online,analyzed
+rakocasino.net,CRITICAL,95,Mentions well-known brands: 8 found; Uses urgency/scarcity tactics: 1 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 5 found,analyzed
+tickfy.online,CRITICAL,95,Contains obfuscated JavaScript; Contains high-risk phishing phrases: 2 found; Mentions well-known brands: 6 found; Uses suspicious TLD: .online,analyzed
+16nspqxh.sbs,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate; Uses suspicious TLD: .sbs,analyzed
+amuwombatshads.fun,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate; Uses suspicious TLD: .fun,analyzed
+bills-cabinet-check.online,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate; Uses suspicious TLD: .online,analyzed
+billscheck.space,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate; Uses suspicious TLD: .space,analyzed
+bills-cabinet.space,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate; Uses suspicious TLD: .space,analyzed
+bolt-aspout-nubby.fun,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate; Uses suspicious TLD: .fun,analyzed
+cabinetbills.site,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate; Uses suspicious TLD: .site,analyzed
+brontivelle.online,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found; No valid SSL certificate; Uses suspicious TLD: .online,analyzed
+cent-khoums-rewon.top,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; No valid SSL certificate; Uses suspicious TLD: .top,analyzed
+cerialassosmus.site,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; No valid SSL certificate; Uses suspicious TLD: .site,analyzed
+checkcabinet.online,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate; Uses suspicious TLD: .online,analyzed
+draxilon.blog,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; No valid SSL certificate; Uses suspicious TLD: .blog,analyzed
+dcwiehengebirge.com,CRITICAL,90,Contains high-risk phishing phrases: 1 found; Contains credential harvesting phrases: 1 found; Mentions well-known brands: 3 found,analyzed
+gadgetshopper.in,CRITICAL,90,Contains high-risk phishing phrases: 1 found; Contains credential harvesting phrases: 1 found; Mentions well-known brands: 6 found,analyzed
+inset-katis-risus.top,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; No valid SSL certificate; Uses suspicious TLD: .top,analyzed
+indianewsexpress.in,CRITICAL,90,Contains high-risk phishing phrases: 1 found; Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found,analyzed
+jmhorizonz.com,CRITICAL,90,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 3 found; Online gambling/casino content: 1 found,analyzed
+jetton061125.casino,CRITICAL,90,Contains JavaScript redirects; Mentions well-known brands: 4 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .casino,analyzed
+glimmorath.site,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; No valid SSL certificate; Uses suspicious TLD: .site,analyzed
+nirmalrabari.in,CRITICAL,90,Contains JavaScript redirects; Contains high-risk phishing phrases: 1 found; Mentions well-known brands: 4 found; Uses urgency/scarcity tactics: 1 found,analyzed
+pantrilo.icu,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; No valid SSL certificate; Uses suspicious TLD: .icu,analyzed
+photoaddphotography.com,CRITICAL,90,Contains login form; Contains 1 email input field(s); Contains credential harvesting phrases: 1 found; Mentions well-known brands: 4 found,analyzed
+mimisson.in,CRITICAL,90,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 7 found; Online gambling/casino content: 1 found,analyzed
+rontecyclosreaks.fun,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate; Uses suspicious TLD: .fun,analyzed
+rxxqueen.pics,CRITICAL,90,Contains high-risk phishing phrases: 1 found; Contains credential harvesting phrases: 1 found; Mentions well-known brands: 20 found,analyzed
+sale-redes-debs.site,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; No valid SSL certificate; Uses suspicious TLD: .site,analyzed
+smartbillscheck.online,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate; Uses suspicious TLD: .online,analyzed
+smk-smpboediluhur.sch.id,CRITICAL,90,Contains JavaScript redirects; Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found; No valid SSL certificate,analyzed
+tay-laymen-doula.shop,CRITICAL,90,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; No valid SSL certificate; Uses suspicious TLD: .shop,analyzed
+adobomatiesanile.top,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .top,analyzed
+70m785w0.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .sbs,analyzed
+9uvxskqa.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .sbs,analyzed
+blackpadfriday.xyz,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found; Uses suspicious TLD: .xyz,analyzed
+bills-check.online,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .online,analyzed
+billscheck.online,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .online,analyzed
+bills-cabinet.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .site,analyzed
+bills-check.space,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .space,analyzed
+bills-cabinet-bills.online,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .online,analyzed
+bunjy-ferms-fiats.shop,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found; Uses suspicious TLD: .shop,analyzed
+bpaclzo4.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .sbs,analyzed
+caufteraisliri.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .site,analyzed
+c7qgz50r.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .sbs,analyzed
+cabinetcheck.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .site,analyzed
+cabinetcheck.online,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .online,analyzed
+cabinetsecure.online,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .online,analyzed
+aglee-bourse-scrab.rest,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .rest,analyzed
+cabinet-bills-check.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .site,analyzed
+codget.online,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .online,analyzed
+cabinet-bills.space,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .space,analyzed
+copesbalkythroe.rest,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found; Uses suspicious TLD: .rest,analyzed
+cabinetcheck.space,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .space,analyzed
+check-bills.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .site,analyzed
+checkcabinet.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .site,analyzed
+cur-alegge-topos.rest,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .rest,analyzed
+cryndorax.xyz,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .xyz,analyzed
+coats-knur-sized.fun,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .fun,analyzed
+cryndorix.best,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .best,analyzed
+dennielligoss.fun,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; Uses suspicious TLD: .fun,analyzed
+derth-virgas-annex.shop,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .shop,analyzed
+check-bills.space,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .space,analyzed
+checkbills.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .site,analyzed
+engs-jud-dues.fun,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .fun,analyzed
+ensue-wombat-hewn.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .site,analyzed
+crysvexen.store,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 11 found; Uses suspicious TLD: .store,analyzed
+erevs-epris-agast.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .site,analyzed
+farcy-nielli-oon.fun,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; Uses suspicious TLD: .fun,analyzed
+faelgryph.online,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .online,analyzed
+dh98sx68.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .sbs,analyzed
+easycabinetcheck.space,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .space,analyzed
+flashtrust.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 9 found; Uses suspicious TLD: .site,analyzed
+elitetutorsacademy.online,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .online,analyzed
+fennythoraxtanas.fun,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .fun,analyzed
+fluxarath.live,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .live,analyzed
+glutederrostempt.top,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .top,analyzed
+grixalith.blog,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .blog,analyzed
+gretamor.online,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; Uses suspicious TLD: .online,analyzed
+hikmaa.shop,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 1 found; Uses suspicious TLD: .shop,analyzed
+hub-monad.sbs,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .sbs,analyzed
+grixvorn.live,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 7 found; Uses suspicious TLD: .live,analyzed
+berkahdwitamasejahtera.com,CRITICAL,80,Contains login form; Contains credential harvesting phrases: 3 found; Mentions well-known brands: 8 found,analyzed
+jobe-alew-baels.rest,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .rest,analyzed
+kabobredesdated.space,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .space,analyzed
+kavaseprisif.rest,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .rest,analyzed
+ivil6y8d.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .sbs,analyzed
+eevn-vermes-geum.shop,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .shop,analyzed
+kaelthrix.art,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .art,analyzed
+ke-rjc69.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .site,analyzed
+kyat-simoom-phos.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .site,analyzed
+jingosackeryaba.top,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .top,analyzed
+mangasino.com,CRITICAL,80,Mentions well-known brands: 6 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 4 found,analyzed
+lymdrakon.live,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 7 found; Uses suspicious TLD: .live,analyzed
+kivolimo.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found; Uses suspicious TLD: .sbs,analyzed
+jipranok.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .sbs,analyzed
+miaoubytalkshaly.top,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .top,analyzed
+mgktuzs8.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .sbs,analyzed
+look-airdrop.info,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found; Uses suspicious TLD: .info,analyzed
+msusndvehicle.online,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .online,analyzed
+mus9sz92.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .sbs,analyzed
+noyesegisesthorp.shop,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 7 found; Uses suspicious TLD: .shop,analyzed
+myrvexar.space,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 7 found; Uses suspicious TLD: .space,analyzed
+lufexino.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .sbs,analyzed
+pancestobieaiver.top,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .top,analyzed
+parthasarathiservices.com,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 6 found; Uses urgency/scarcity tactics: 1 found,analyzed
+myrvexis.live,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .live,analyzed
+nyxdraven.pro,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .pro,analyzed
+nvv9c01n.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .sbs,analyzed
+pigsegisestit.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .site,analyzed
+portsteabagciggy.shop,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .shop,analyzed
+phrenvox.blog,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .blog,analyzed
+rapeddebugsmesh.site,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .site,analyzed
+riels-centra-silds.shop,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .shop,analyzed
+quorvexis.blog,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; Uses suspicious TLD: .blog,analyzed
+quixalor.pro,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 7 found; Uses suspicious TLD: .pro,analyzed
+sapor-maties-creed.shop,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .shop,analyzed
+sjoe-buats-dowdy.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 7 found; Uses suspicious TLD: .site,analyzed
+sordomatiesflies.shop,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .shop,analyzed
+stakeclub.online,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; Uses suspicious TLD: .online,analyzed
+spheridox.space,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .space,analyzed
+snoek-latent-pygmy.space,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; Uses suspicious TLD: .space,analyzed
+svtpremium.pics,CRITICAL,80,Mentions well-known brands: 2 found; Contains financial scam keywords: 1 found; Online gambling/casino content: 2 found,analyzed
+spherivox.pro,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 6 found; Uses suspicious TLD: .pro,analyzed
+tak-mocock-popes.rest,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .rest,analyzed
+teerxoanaduroy.shop,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .shop,analyzed
+treadmillreviews.xyz,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found; Uses suspicious TLD: .xyz,analyzed
+tundrelith.space,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found; Uses suspicious TLD: .space,analyzed
+vexorinth.xyz,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; Uses suspicious TLD: .xyz,analyzed
+talonexa.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found; Uses suspicious TLD: .sbs,analyzed
+vaesstanckplouk.rest,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .rest,analyzed
+thryzelith.xyz,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .xyz,analyzed
+wacks-ludos-wasts.space,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .space,analyzed
+veles-chine.online,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found; Uses suspicious TLD: .online,analyzed
+w00w.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .site,analyzed
+sypheront.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 8 found; Uses suspicious TLD: .site,analyzed
+winze-stobie-apod.fun,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .fun,analyzed
+thryzalux.best,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .best,analyzed
+xylotara.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found; Uses suspicious TLD: .sbs,analyzed
+zlote-growls-trods.site,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .site,analyzed
+x1zvulc2.sbs,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .sbs,analyzed
+zyltharion.online,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .online,analyzed
+zorblight.store,CRITICAL,80,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 7 found; Uses suspicious TLD: .store,analyzed
+zyltherix.pro,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .pro,analyzed
+payor-birdie-vasal.rest,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; Uses suspicious TLD: .rest,analyzed
+zylpheron.best,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found; Uses suspicious TLD: .best,analyzed
+viennissimalifestyle.store,CRITICAL,80,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found; Uses suspicious TLD: .store,analyzed
+xn--80aaaawunbwvling8d6g.xn--p1ai,HIGH,75,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; No valid SSL certificate,analyzed
+apexdrains.ca,HIGH,75,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate,analyzed
+ban6konlbet.com,HIGH,75,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found; No valid SSL certificate,analyzed
+app-tria.co,HIGH,75,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate,analyzed
+belki.band,HIGH,75,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found; No valid SSL certificate,analyzed
+beastgames.ink,HIGH,75,Mentions well-known brands: 4 found; Online gambling/casino content: 2 found; Uses suspicious TLD: .ink,analyzed
+ambuzen.com,HIGH,75,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 10 found; No valid SSL certificate,analyzed
+cabinet-check.website,HIGH,75,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate,analyzed
+cabinet-bills.website,HIGH,75,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate,analyzed
+cabinetcheck.website,HIGH,75,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found; No valid SSL certificate,analyzed
+chickenroadgame.ing,HIGH,75,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found; No valid SSL certificate,analyzed
+dravylith.art,HIGH,75,Contains high-risk phishing phrases: 2 found; Mentions well-known brands: 3 found; Uses suspicious TLD: .art,analyzed
+kongwin.ink,HIGH,75,Mentions well-known brands: 5 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .ink,analyzed
+lareservapc.com,HIGH,75,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found; No valid SSL certificate,analyzed
+lottmaxx.ink,HIGH,75,Mentions well-known brands: 5 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .ink,analyzed
+luckyzoneau.xyz,HIGH,75,Mentions well-known brands: 5 found; Online gambling/casino content: 1 found; Uses suspicious TLD: .xyz,analyzed
+lasoong.vn,HIGH,75,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 4 found; No valid SSL certificate,analyzed
+mdesign-maierhofer.store,HIGH,75,Contains 1 iframe(s); Mentions well-known brands: 3 found; Uses urgency/scarcity tactics: 1 found; Uses suspicious TLD: .store,analyzed
+mnsurenavigator.com,HIGH,75,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 2 found; No valid SSL certificate,analyzed
+mrvl77-lover.com,HIGH,75,Mentions well-known brands: 6 found; Contains financial scam keywords: 1 found; Redirects to different domain: marvel77hero.com,analyzed
+rsrkg.com,HIGH,75,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found; No valid SSL certificate,analyzed
+rus-iks.ru,HIGH,75,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 6 found; No valid SSL certificate,analyzed
+gursimrandecoration.in,HIGH,75,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 8 found; No valid SSL certificate,analyzed
+sharpentry.fr,HIGH,75,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found; No valid SSL certificate,analyzed
+professionalengineersontario.org,HIGH,75,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found; No valid SSL certificate,analyzed
+zovarixi.sbs,HIGH,75,Contains high-risk phishing phrases: 2 found; Mentions well-known brands: 7 found; Uses suspicious TLD: .sbs,analyzed
+pousoobrassociaisslz.cloud,HIGH,70,Contains obfuscated JavaScript; Mentions well-known brands: 1 found; Uses urgency/scarcity tactics: 1 found,analyzed
+allibyaaldawlia.ly,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found,analyzed
+artemest.one,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 6 found,analyzed
+amigolawn.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 13 found,analyzed
+bills-check.website,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found,analyzed
+billscontrol.website,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found,analyzed
+bajkowawyobraznia.pl,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found,analyzed
+bihosphere.org,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 10 found,analyzed
+boffi.one,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found,analyzed
+carvingmates.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found,analyzed
+chickenroad-in.ing,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+chicken-road-slot.ing,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+cpmengco.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found,analyzed
+check-cabinet-bills.website,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found,analyzed
+ebbether.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found,analyzed
+egsdt.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+fnndirect.pics,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 6 found,analyzed
+gelenkverbesserung-de.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 3 found,analyzed
+gelenkverbesserung-at.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 3 found,analyzed
+ghcoffeetrade.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found,analyzed
+disimprosolutions.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 6 found,analyzed
+hr-capitalfin.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found,analyzed
+famiasongcong.vn,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found,analyzed
+hglhg.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+iboss.website,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found,analyzed
+iyonp.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+giveaway-stable.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found,analyzed
+id-moda.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found,analyzed
+jhfdd.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+jhepfoundationindia.org,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 7 found,analyzed
+mandarin.us.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found,analyzed
+lkjhv.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+morningdownloadnews.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 4 found,analyzed
+ndx-preman69.life,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+kassamacornflour.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found,analyzed
+nexus-bf.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found,analyzed
+lapazyates.com.mx,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 3 found,analyzed
+on3x.pp.ua,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found,analyzed
+old-bsilkroad.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found,analyzed
+plinko-game-uk.ing,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+poprawa-ruchu-pl.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 3 found,analyzed
+plinkogame-pt.ing,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+pepeport.org,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 3 found,analyzed
+riftech.fr,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found,analyzed
+peppeport.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 3 found,analyzed
+senam603.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 5 found,analyzed
+studioexnovo.me,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 12 found,analyzed
+sweepapp.io,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 7 found,analyzed
+mfcgulf.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 7 found,analyzed
+tobactos.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 2 found,analyzed
+usdtguard.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 9 found,analyzed
+valkyrievanguard.com,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 3 found,analyzed
+vintage-clothes.ie,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 2 found,analyzed
+vfghp.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+vanish-trade.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 1 found,analyzed
+vtsyt.com,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+xerx.uk,HIGH,65,Contains credential harvesting phrases: 1 found; Mentions well-known brands: 5 found,analyzed
+timelesselegancebyennali.nl,HIGH,65,Contains credential harvesting phrases: 2 found; Mentions well-known brands: 4 found,analyzed
+7k-772.casino,HIGH,60,Mentions well-known brands: 1 found; No valid SSL certificate; Uses suspicious TLD: .casino,analyzed
+ball000on.ink,HIGH,60,Mentions well-known brands: 5 found; No valid SSL certificate; Uses suspicious TLD: .ink,analyzed
+akuwyspaskarbow.pl,HIGH,60,Contains login form; Mentions well-known brands: 2 found; No valid SSL certificate,analyzed
+loancheckindia.com,HIGH,60,Contains high-risk phishing phrases: 1 found; Mentions well-known brands: 3 found,analyzed
+nicekicks.fit,HIGH,60,Contains high-risk phishing phrases: 1 found; Mentions well-known brands: 3 found,analyzed
+queengbr.pics,HIGH,60,Mentions well-known brands: 5 found; Online gambling/casino content: 1 found,analyzed
+fermedenavecainc.com,HIGH,60,Contains high-risk phishing phrases: 1 found; Mentions well-known brands: 3 found,analyzed
+chromobrands.com,MEDIUM,55,Mentions well-known brands: 6 found; Contains financial scam keywords: 1 found,analyzed
+stocindiahkop.click,MEDIUM,55,Mentions well-known brands: 2 found; Contains financial scam keywords: 1 found,analyzed
+blendfeel.biz,MEDIUM,50,Mentions well-known brands: 3 found; Uses suspicious TLD: .biz,analyzed
+centriifugenews.blog,MEDIUM,50,Mentions well-known brands: 4 found; Uses suspicious TLD: .blog,analyzed
+check-bills-cabinet.online,MEDIUM,50,Mentions well-known brands: 1 found; Uses suspicious TLD: .online,analyzed
+faelxith.xyz,MEDIUM,50,Mentions well-known brands: 1 found; Uses suspicious TLD: .xyz,analyzed
+erickrenatopsi.com.br,MEDIUM,50,Contains JavaScript redirects; Mentions well-known brands: 4 found,analyzed
+glimmexar.art,MEDIUM,50,Mentions well-known brands: 1 found; Uses suspicious TLD: .art,analyzed
+flexbucks.site,MEDIUM,50,Mentions well-known brands: 3 found; Uses suspicious TLD: .site,analyzed
+kohinoorwakadprojects.in,MEDIUM,50,Mentions well-known brands: 3 found; Uses urgency/scarcity tactics: 1 found,analyzed
+mhj333.live,MEDIUM,50,Mentions well-known brands: 1 found; Uses suspicious TLD: .live,analyzed
+mhj333.blog,MEDIUM,50,Mentions well-known brands: 1 found; Uses suspicious TLD: .blog,analyzed
+melarino.icu,MEDIUM,50,Mentions well-known brands: 6 found; Uses suspicious TLD: .icu,analyzed
+loanalert.in,MEDIUM,50,Mentions well-known brands: 3 found; Uses urgency/scarcity tactics: 1 found,analyzed
+myintent.in,MEDIUM,50,Mentions well-known brands: 4 found; Uses urgency/scarcity tactics: 1 found,analyzed
+newyours.com,MEDIUM,50,Mentions well-known brands: 5 found; Uses urgency/scarcity tactics: 1 found,analyzed
+playingmarket.online,MEDIUM,50,Mentions well-known brands: 5 found; Uses suspicious TLD: .online,analyzed
+nona-nitres-minge.site,MEDIUM,50,Mentions well-known brands: 3 found; Uses suspicious TLD: .site,analyzed
+powerwingame.online,MEDIUM,50,Mentions well-known brands: 5 found; Uses suspicious TLD: .online,analyzed
+rapedlaymenbuba.fun,MEDIUM,50,Mentions well-known brands: 1 found; Uses suspicious TLD: .fun,analyzed
+rmktelecom.store,MEDIUM,50,Mentions well-known brands: 1 found; Uses suspicious TLD: .store,analyzed
+quixplendor.online,MEDIUM,50,Mentions well-known brands: 11 found; Uses suspicious TLD: .online,analyzed
+shaqyrym.online,MEDIUM,50,Mentions well-known brands: 6 found; Uses suspicious TLD: .online,analyzed
+sorryuaredrrrrned.sbs,MEDIUM,50,Mentions well-known brands: 1 found; Uses suspicious TLD: .sbs,analyzed
+phexalith.site,MEDIUM,50,Mentions well-known brands: 4 found; Uses suspicious TLD: .site,analyzed
+thryndrake.site,MEDIUM,50,Mentions well-known brands: 6 found; Uses suspicious TLD: .site,analyzed
+veles-systems.online,MEDIUM,50,Mentions well-known brands: 1 found; Uses suspicious TLD: .online,analyzed
+worldneh.top,MEDIUM,50,Mentions well-known brands: 5 found; Uses suspicious TLD: .top,analyzed
+zefimora.icu,MEDIUM,50,Mentions well-known brands: 1 found; Uses suspicious TLD: .icu,analyzed
+vaterixa.icu,MEDIUM,50,Mentions well-known brands: 3 found; Uses suspicious TLD: .icu,analyzed
+amlpro.app,MEDIUM,45,Mentions well-known brands: 1 found; No valid SSL certificate,analyzed
+jggtoday.pics,MEDIUM,45,Mentions well-known brands: 5 found; No valid SSL certificate,analyzed
+nffkvv365.pics,MEDIUM,45,Mentions well-known brands: 5 found; No valid SSL certificate,analyzed
+sweatbonanzaa.life,MEDIUM,45,Mentions well-known brands: 6 found; No valid SSL certificate,analyzed

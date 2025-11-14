@@ -1,0 +1,1321 @@
+PHISHING DOMAIN ANALYSIS SUMMARY
+====================================================================================================
+
+Total Domains Analyzed: 405
+Phishing Domains Detected: 326
+Inaccessible Domains: 13
+Safe/Low Risk Domains: 66
+
+RISK LEVEL BREAKDOWN
+----------------------------------------------------------------------------------------------------
+Critical Risk: 201
+High Risk: 91
+Medium Risk: 34
+
+PHISHING DOMAINS LIST
+====================================================================================================
+
+1. 7k-77.casino
+   Risk: CRITICAL (150/100)
+   Indicators: Contains JavaScript redirects, Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 2 found, No valid SSL certificate, Uses suspicious TLD: .casino
+
+2. 1kppw-sdid3.shop
+   Risk: CRITICAL (145/100)
+   Indicators: Contains JavaScript redirects, Contains high-risk phishing phrases: 1 found, Contains credential harvesting phrases: 1 found, Mentions well-known brands: 4 found, Uses urgency/scarcity tactics: 1 found, No valid SSL certificate, Uses suspicious TLD: .shop
+
+3. arkadalink.casino
+   Risk: CRITICAL (145/100)
+   Indicators: Contains JavaScript redirects, Contains high-risk phishing phrases: 1 found, Mentions well-known brands: 2 found, Contains financial scam keywords: 3 found, Online gambling/casino content: 1 found, No valid SSL certificate, Uses suspicious TLD: .casino
+
+4. joyslot-88.online
+   Risk: CRITICAL (145/100)
+   Indicators: Contains login form, Contains 1 password input field(s), Contains JavaScript redirects, Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 4 found, Uses suspicious TLD: .online
+
+5. joyslot-88.space
+   Risk: CRITICAL (145/100)
+   Indicators: Contains login form, Contains 1 password input field(s), Contains JavaScript redirects, Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 4 found, Uses suspicious TLD: .space
+
+6. joyslot-88.site
+   Risk: CRITICAL (145/100)
+   Indicators: Contains login form, Contains 1 password input field(s), Contains JavaScript redirects, Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 4 found, Uses suspicious TLD: .site
+
+7. joyslot-88.store
+   Risk: CRITICAL (145/100)
+   Indicators: Contains login form, Contains 1 password input field(s), Contains JavaScript redirects, Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 4 found, Uses suspicious TLD: .store
+
+8. desadio19d.shop
+   Risk: CRITICAL (140/100)
+   Indicators: Contains JavaScript redirects, Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .shop
+
+9. konoha777.site
+   Risk: CRITICAL (140/100)
+   Indicators: Contains login form, Contains 1 password input field(s), Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 3 found, No valid SSL certificate, Uses suspicious TLD: .site
+
+10. livancetesteapp2.com.br
+   Risk: CRITICAL (135/100)
+   Indicators: Contains login form, Contains 1 email input field(s), Contains 1 iframe(s), Contains high-risk phishing phrases: 1 found, Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate
+
+11. 18iya777.com
+   Risk: CRITICAL (130/100)
+   Indicators: Contains login form, Contains 1 password input field(s), Contains JavaScript redirects, Mentions well-known brands: 3 found, Contains financial scam keywords: 2 found, Online gambling/casino content: 4 found
+
+12. 02iya777.org
+   Risk: CRITICAL (130/100)
+   Indicators: Contains login form, Contains 1 password input field(s), Contains JavaScript redirects, Mentions well-known brands: 3 found, Contains financial scam keywords: 2 found, Online gambling/casino content: 4 found
+
+13. konoha777.online
+   Risk: CRITICAL (130/100)
+   Indicators: Contains login form, Contains 1 password input field(s), Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 3 found, Uses suspicious TLD: .online
+
+14. konoha777.space
+   Risk: CRITICAL (130/100)
+   Indicators: Contains login form, Contains 1 password input field(s), Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 3 found, Uses suspicious TLD: .space
+
+15. konoha777.shop
+   Risk: CRITICAL (130/100)
+   Indicators: Contains login form, Contains 1 password input field(s), Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 3 found, Uses suspicious TLD: .shop
+
+16. challengeszone.pro
+   Risk: CRITICAL (125/100)
+   Indicators: Contains JavaScript redirects, Contains credential harvesting phrases: 1 found, Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, No valid SSL certificate, Uses suspicious TLD: .pro
+
+17. goldiwin.casino
+   Risk: CRITICAL (125/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 2 found, Uses suspicious TLD: .casino
+
+18. kencanabet99.top
+   Risk: CRITICAL (125/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 2 found, Uses suspicious TLD: .top
+
+19. realcoupon.in
+   Risk: CRITICAL (125/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Contains credential harvesting phrases: 1 found, Mentions well-known brands: 6 found, Uses urgency/scarcity tactics: 4 found, Contains financial scam keywords: 1 found
+
+20. spiderbets.casino
+   Risk: CRITICAL (125/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 2 found, Uses suspicious TLD: .casino
+
+21. getx061125.casino
+   Risk: CRITICAL (120/100)
+   Indicators: Contains JavaScript redirects, Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .casino
+
+22. getx0611.casino
+   Risk: CRITICAL (120/100)
+   Indicators: Contains JavaScript redirects, Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .casino
+
+23. gwbd47x.casino
+   Risk: CRITICAL (120/100)
+   Indicators: Contains JavaScript redirects, Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .casino
+
+24. mellstroy999.casino
+   Risk: CRITICAL (120/100)
+   Indicators: Contains JavaScript redirects, Contains credential harvesting phrases: 1 found, Mentions well-known brands: 4 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .casino
+
+25. brontyphos.pro
+   Risk: CRITICAL (115/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Online gambling/casino content: 1 found, No valid SSL certificate, Uses suspicious TLD: .pro
+
+26. moncoachlocatif.fr
+   Risk: CRITICAL (115/100)
+   Indicators: Contains high-risk phishing phrases: 2 found, Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, Online gambling/casino content: 1 found
+
+27. serre-reheat-onlay.site
+   Risk: CRITICAL (115/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found, No valid SSL certificate, Uses suspicious TLD: .site
+
+28. trucoswin.pro
+   Risk: CRITICAL (115/100)
+   Indicators: Contains JavaScript redirects, Contains high-risk phishing phrases: 3 found, Mentions well-known brands: 2 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .pro
+
+29. bcgame.host
+   Risk: CRITICAL (110/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 8 found, Contains financial scam keywords: 2 found, Online gambling/casino content: 7 found
+
+30. blackcliniciansmeet.org
+   Risk: CRITICAL (110/100)
+   Indicators: Contains obfuscated JavaScript, Contains high-risk phishing phrases: 1 found, Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+31. bcgame.claims
+   Risk: CRITICAL (110/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 8 found, Contains financial scam keywords: 2 found, Online gambling/casino content: 7 found
+
+32. denemebonusuremake.com
+   Risk: CRITICAL (110/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 2 found
+
+33. officialarkada.casino
+   Risk: CRITICAL (110/100)
+   Indicators: Contains JavaScript redirects, Contains high-risk phishing phrases: 1 found, Mentions well-known brands: 1 found, Contains financial scam keywords: 1 found, Uses suspicious TLD: .casino
+
+34. play-baxterbet.org
+   Risk: CRITICAL (110/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 4 found
+
+35. play-fishroad.games
+   Risk: CRITICAL (110/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 2 found
+
+36. brynteso.icu
+   Risk: CRITICAL (105/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .icu
+
+37. brontvexar.best
+   Risk: CRITICAL (105/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Contains credential harvesting phrases: 1 found, Mentions well-known brands: 8 found, Uses suspicious TLD: .best
+
+38. cover-pogos-local.shop
+   Risk: CRITICAL (105/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .shop
+
+39. design-district.store
+   Risk: CRITICAL (105/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .store
+
+40. eu9.org.uk
+   Risk: CRITICAL (105/100)
+   Indicators: Contains JavaScript redirects, Contains 1 iframe(s), Mentions well-known brands: 5 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 1 found
+
+41. fluxarion.space
+   Risk: CRITICAL (105/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Contains credential harvesting phrases: 2 found, Mentions well-known brands: 7 found, Uses suspicious TLD: .space
+
+42. faelgrynd.best
+   Risk: CRITICAL (105/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .best
+
+43. ligawin138-gg.top
+   Risk: CRITICAL (105/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .top
+
+44. phexorath.art
+   Risk: CRITICAL (105/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .art
+
+45. neruvota.icu
+   Risk: CRITICAL (105/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .icu
+
+46. ottmaxx.com
+   Risk: CRITICAL (105/100)
+   Indicators: Contains login form, Contains JavaScript redirects, Contains high-risk phishing phrases: 3 found, Mentions well-known brands: 6 found, Uses urgency/scarcity tactics: 1 found
+
+47. rucwoolexit.shop
+   Risk: CRITICAL (105/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .shop
+
+48. sythralux.xyz
+   Risk: CRITICAL (105/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .xyz
+
+49. sanex138.top
+   Risk: CRITICAL (105/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .top
+
+50. birdhousecreations.com
+   Risk: CRITICAL (100/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found, No valid SSL certificate
+
+51. mhj333jp.store
+   Risk: CRITICAL (100/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .store
+
+52. mhj333jp.space
+   Risk: CRITICAL (100/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .space
+
+53. valthrynd.art
+   Risk: CRITICAL (100/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Mentions well-known brands: 10 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .art
+
+54. brex.com.bz
+   Risk: CRITICAL (95/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 7 found, Redirects to different domain: brex.com.bz:443, No valid SSL certificate
+
+55. jogosdeperto.online
+   Risk: CRITICAL (95/100)
+   Indicators: Contains obfuscated JavaScript, Contains high-risk phishing phrases: 2 found, Mentions well-known brands: 6 found, Uses suspicious TLD: .online
+
+56. rakocasino.net
+   Risk: CRITICAL (95/100)
+   Indicators: Mentions well-known brands: 8 found, Uses urgency/scarcity tactics: 1 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 5 found
+
+57. tickfy.online
+   Risk: CRITICAL (95/100)
+   Indicators: Contains obfuscated JavaScript, Contains high-risk phishing phrases: 2 found, Mentions well-known brands: 6 found, Uses suspicious TLD: .online
+
+58. 16nspqxh.sbs
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate, Uses suspicious TLD: .sbs
+
+59. amuwombatshads.fun
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate, Uses suspicious TLD: .fun
+
+60. bills-cabinet-check.online
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate, Uses suspicious TLD: .online
+
+61. billscheck.space
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate, Uses suspicious TLD: .space
+
+62. bills-cabinet.space
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate, Uses suspicious TLD: .space
+
+63. bolt-aspout-nubby.fun
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate, Uses suspicious TLD: .fun
+
+64. cabinetbills.site
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate, Uses suspicious TLD: .site
+
+65. brontivelle.online
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found, No valid SSL certificate, Uses suspicious TLD: .online
+
+66. cent-khoums-rewon.top
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, No valid SSL certificate, Uses suspicious TLD: .top
+
+67. cerialassosmus.site
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, No valid SSL certificate, Uses suspicious TLD: .site
+
+68. checkcabinet.online
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate, Uses suspicious TLD: .online
+
+69. draxilon.blog
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, No valid SSL certificate, Uses suspicious TLD: .blog
+
+70. dcwiehengebirge.com
+   Risk: CRITICAL (90/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Contains credential harvesting phrases: 1 found, Mentions well-known brands: 3 found
+
+71. gadgetshopper.in
+   Risk: CRITICAL (90/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Contains credential harvesting phrases: 1 found, Mentions well-known brands: 6 found
+
+72. inset-katis-risus.top
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, No valid SSL certificate, Uses suspicious TLD: .top
+
+73. indianewsexpress.in
+   Risk: CRITICAL (90/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found
+
+74. jmhorizonz.com
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 3 found, Online gambling/casino content: 1 found
+
+75. jetton061125.casino
+   Risk: CRITICAL (90/100)
+   Indicators: Contains JavaScript redirects, Mentions well-known brands: 4 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .casino
+
+76. glimmorath.site
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, No valid SSL certificate, Uses suspicious TLD: .site
+
+77. nirmalrabari.in
+   Risk: CRITICAL (90/100)
+   Indicators: Contains JavaScript redirects, Contains high-risk phishing phrases: 1 found, Mentions well-known brands: 4 found, Uses urgency/scarcity tactics: 1 found
+
+78. pantrilo.icu
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, No valid SSL certificate, Uses suspicious TLD: .icu
+
+79. photoaddphotography.com
+   Risk: CRITICAL (90/100)
+   Indicators: Contains login form, Contains 1 email input field(s), Contains credential harvesting phrases: 1 found, Mentions well-known brands: 4 found
+
+80. mimisson.in
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 7 found, Online gambling/casino content: 1 found
+
+81. rontecyclosreaks.fun
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate, Uses suspicious TLD: .fun
+
+82. rxxqueen.pics
+   Risk: CRITICAL (90/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Contains credential harvesting phrases: 1 found, Mentions well-known brands: 20 found
+
+83. sale-redes-debs.site
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, No valid SSL certificate, Uses suspicious TLD: .site
+
+84. smartbillscheck.online
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate, Uses suspicious TLD: .online
+
+85. smk-smpboediluhur.sch.id
+   Risk: CRITICAL (90/100)
+   Indicators: Contains JavaScript redirects, Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found, No valid SSL certificate
+
+86. tay-laymen-doula.shop
+   Risk: CRITICAL (90/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, No valid SSL certificate, Uses suspicious TLD: .shop
+
+87. adobomatiesanile.top
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .top
+
+88. 70m785w0.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .sbs
+
+89. 9uvxskqa.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .sbs
+
+90. blackpadfriday.xyz
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found, Uses suspicious TLD: .xyz
+
+91. bills-check.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .online
+
+92. billscheck.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .online
+
+93. bills-cabinet.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .site
+
+94. bills-check.space
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .space
+
+95. bills-cabinet-bills.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .online
+
+96. bunjy-ferms-fiats.shop
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found, Uses suspicious TLD: .shop
+
+97. bpaclzo4.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .sbs
+
+98. caufteraisliri.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .site
+
+99. c7qgz50r.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .sbs
+
+100. cabinetcheck.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .site
+
+101. cabinetcheck.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .online
+
+102. cabinetsecure.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .online
+
+103. aglee-bourse-scrab.rest
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .rest
+
+104. cabinet-bills-check.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .site
+
+105. codget.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .online
+
+106. cabinet-bills.space
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .space
+
+107. copesbalkythroe.rest
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found, Uses suspicious TLD: .rest
+
+108. cabinetcheck.space
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .space
+
+109. check-bills.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .site
+
+110. checkcabinet.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .site
+
+111. cur-alegge-topos.rest
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .rest
+
+112. cryndorax.xyz
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .xyz
+
+113. coats-knur-sized.fun
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .fun
+
+114. cryndorix.best
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .best
+
+115. dennielligoss.fun
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, Uses suspicious TLD: .fun
+
+116. derth-virgas-annex.shop
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .shop
+
+117. check-bills.space
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .space
+
+118. checkbills.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .site
+
+119. engs-jud-dues.fun
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .fun
+
+120. ensue-wombat-hewn.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .site
+
+121. crysvexen.store
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 11 found, Uses suspicious TLD: .store
+
+122. erevs-epris-agast.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .site
+
+123. farcy-nielli-oon.fun
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, Uses suspicious TLD: .fun
+
+124. faelgryph.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .online
+
+125. dh98sx68.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .sbs
+
+126. easycabinetcheck.space
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .space
+
+127. flashtrust.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 9 found, Uses suspicious TLD: .site
+
+128. elitetutorsacademy.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .online
+
+129. fennythoraxtanas.fun
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .fun
+
+130. fluxarath.live
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .live
+
+131. glutederrostempt.top
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .top
+
+132. grixalith.blog
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .blog
+
+133. gretamor.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, Uses suspicious TLD: .online
+
+134. hikmaa.shop
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 1 found, Uses suspicious TLD: .shop
+
+135. hub-monad.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .sbs
+
+136. grixvorn.live
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 7 found, Uses suspicious TLD: .live
+
+137. berkahdwitamasejahtera.com
+   Risk: CRITICAL (80/100)
+   Indicators: Contains login form, Contains credential harvesting phrases: 3 found, Mentions well-known brands: 8 found
+
+138. jobe-alew-baels.rest
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .rest
+
+139. kabobredesdated.space
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .space
+
+140. kavaseprisif.rest
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .rest
+
+141. ivil6y8d.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .sbs
+
+142. eevn-vermes-geum.shop
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .shop
+
+143. kaelthrix.art
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .art
+
+144. ke-rjc69.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .site
+
+145. kyat-simoom-phos.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .site
+
+146. jingosackeryaba.top
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .top
+
+147. mangasino.com
+   Risk: CRITICAL (80/100)
+   Indicators: Mentions well-known brands: 6 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 4 found
+
+148. lymdrakon.live
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 7 found, Uses suspicious TLD: .live
+
+149. kivolimo.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found, Uses suspicious TLD: .sbs
+
+150. jipranok.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .sbs
+
+151. miaoubytalkshaly.top
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .top
+
+152. mgktuzs8.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .sbs
+
+153. look-airdrop.info
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found, Uses suspicious TLD: .info
+
+154. msusndvehicle.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .online
+
+155. mus9sz92.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .sbs
+
+156. noyesegisesthorp.shop
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 7 found, Uses suspicious TLD: .shop
+
+157. myrvexar.space
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 7 found, Uses suspicious TLD: .space
+
+158. lufexino.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .sbs
+
+159. pancestobieaiver.top
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .top
+
+160. parthasarathiservices.com
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 6 found, Uses urgency/scarcity tactics: 1 found
+
+161. myrvexis.live
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .live
+
+162. nyxdraven.pro
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .pro
+
+163. nvv9c01n.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .sbs
+
+164. pigsegisestit.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .site
+
+165. portsteabagciggy.shop
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .shop
+
+166. phrenvox.blog
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .blog
+
+167. rapeddebugsmesh.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .site
+
+168. riels-centra-silds.shop
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .shop
+
+169. quorvexis.blog
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, Uses suspicious TLD: .blog
+
+170. quixalor.pro
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 7 found, Uses suspicious TLD: .pro
+
+171. sapor-maties-creed.shop
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .shop
+
+172. sjoe-buats-dowdy.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 7 found, Uses suspicious TLD: .site
+
+173. sordomatiesflies.shop
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .shop
+
+174. stakeclub.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, Uses suspicious TLD: .online
+
+175. spheridox.space
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .space
+
+176. snoek-latent-pygmy.space
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, Uses suspicious TLD: .space
+
+177. svtpremium.pics
+   Risk: CRITICAL (80/100)
+   Indicators: Mentions well-known brands: 2 found, Contains financial scam keywords: 1 found, Online gambling/casino content: 2 found
+
+178. spherivox.pro
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 6 found, Uses suspicious TLD: .pro
+
+179. tak-mocock-popes.rest
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .rest
+
+180. teerxoanaduroy.shop
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .shop
+
+181. treadmillreviews.xyz
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found, Uses suspicious TLD: .xyz
+
+182. tundrelith.space
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found, Uses suspicious TLD: .space
+
+183. vexorinth.xyz
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, Uses suspicious TLD: .xyz
+
+184. talonexa.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found, Uses suspicious TLD: .sbs
+
+185. vaesstanckplouk.rest
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .rest
+
+186. thryzelith.xyz
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .xyz
+
+187. wacks-ludos-wasts.space
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .space
+
+188. veles-chine.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found, Uses suspicious TLD: .online
+
+189. w00w.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .site
+
+190. sypheront.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 8 found, Uses suspicious TLD: .site
+
+191. winze-stobie-apod.fun
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .fun
+
+192. thryzalux.best
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .best
+
+193. xylotara.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found, Uses suspicious TLD: .sbs
+
+194. zlote-growls-trods.site
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .site
+
+195. x1zvulc2.sbs
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .sbs
+
+196. zyltharion.online
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .online
+
+197. zorblight.store
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 7 found, Uses suspicious TLD: .store
+
+198. zyltherix.pro
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .pro
+
+199. payor-birdie-vasal.rest
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, Uses suspicious TLD: .rest
+
+200. zylpheron.best
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found, Uses suspicious TLD: .best
+
+201. viennissimalifestyle.store
+   Risk: CRITICAL (80/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found, Uses suspicious TLD: .store
+
+202. xn--80aaaawunbwvling8d6g.xn--p1ai
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, No valid SSL certificate
+
+203. apexdrains.ca
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate
+
+204. ban6konlbet.com
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found, No valid SSL certificate
+
+205. app-tria.co
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate
+
+206. belki.band
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found, No valid SSL certificate
+
+207. beastgames.ink
+   Risk: HIGH (75/100)
+   Indicators: Mentions well-known brands: 4 found, Online gambling/casino content: 2 found, Uses suspicious TLD: .ink
+
+208. ambuzen.com
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 10 found, No valid SSL certificate
+
+209. cabinet-check.website
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate
+
+210. cabinet-bills.website
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate
+
+211. cabinetcheck.website
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found, No valid SSL certificate
+
+212. chickenroadgame.ing
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found, No valid SSL certificate
+
+213. dravylith.art
+   Risk: HIGH (75/100)
+   Indicators: Contains high-risk phishing phrases: 2 found, Mentions well-known brands: 3 found, Uses suspicious TLD: .art
+
+214. kongwin.ink
+   Risk: HIGH (75/100)
+   Indicators: Mentions well-known brands: 5 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .ink
+
+215. lareservapc.com
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found, No valid SSL certificate
+
+216. lottmaxx.ink
+   Risk: HIGH (75/100)
+   Indicators: Mentions well-known brands: 5 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .ink
+
+217. luckyzoneau.xyz
+   Risk: HIGH (75/100)
+   Indicators: Mentions well-known brands: 5 found, Online gambling/casino content: 1 found, Uses suspicious TLD: .xyz
+
+218. lasoong.vn
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 4 found, No valid SSL certificate
+
+219. mdesign-maierhofer.store
+   Risk: HIGH (75/100)
+   Indicators: Contains 1 iframe(s), Mentions well-known brands: 3 found, Uses urgency/scarcity tactics: 1 found, Uses suspicious TLD: .store
+
+220. mnsurenavigator.com
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 2 found, No valid SSL certificate
+
+221. mrvl77-lover.com
+   Risk: HIGH (75/100)
+   Indicators: Mentions well-known brands: 6 found, Contains financial scam keywords: 1 found, Redirects to different domain: marvel77hero.com
+
+222. rsrkg.com
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found, No valid SSL certificate
+
+223. rus-iks.ru
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 6 found, No valid SSL certificate
+
+224. gursimrandecoration.in
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 8 found, No valid SSL certificate
+
+225. sharpentry.fr
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found, No valid SSL certificate
+
+226. professionalengineersontario.org
+   Risk: HIGH (75/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found, No valid SSL certificate
+
+227. zovarixi.sbs
+   Risk: HIGH (75/100)
+   Indicators: Contains high-risk phishing phrases: 2 found, Mentions well-known brands: 7 found, Uses suspicious TLD: .sbs
+
+228. pousoobrassociaisslz.cloud
+   Risk: HIGH (70/100)
+   Indicators: Contains obfuscated JavaScript, Mentions well-known brands: 1 found, Uses urgency/scarcity tactics: 1 found
+
+229. allibyaaldawlia.ly
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found
+
+230. artemest.one
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 6 found
+
+231. amigolawn.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 13 found
+
+232. bills-check.website
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found
+
+233. billscontrol.website
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found
+
+234. bajkowawyobraznia.pl
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found
+
+235. bihosphere.org
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 10 found
+
+236. boffi.one
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found
+
+237. carvingmates.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found
+
+238. chickenroad-in.ing
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+239. chicken-road-slot.ing
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+240. cpmengco.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found
+
+241. check-cabinet-bills.website
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found
+
+242. ebbether.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found
+
+243. egsdt.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+244. fnndirect.pics
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 6 found
+
+245. gelenkverbesserung-de.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 3 found
+
+246. gelenkverbesserung-at.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 3 found
+
+247. ghcoffeetrade.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found
+
+248. disimprosolutions.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 6 found
+
+249. hr-capitalfin.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found
+
+250. famiasongcong.vn
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found
+
+251. hglhg.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+252. iboss.website
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found
+
+253. iyonp.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+254. giveaway-stable.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found
+
+255. id-moda.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found
+
+256. jhfdd.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+257. jhepfoundationindia.org
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 7 found
+
+258. mandarin.us.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found
+
+259. lkjhv.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+260. morningdownloadnews.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 4 found
+
+261. ndx-preman69.life
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+262. kassamacornflour.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found
+
+263. nexus-bf.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found
+
+264. lapazyates.com.mx
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 3 found
+
+265. on3x.pp.ua
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found
+
+266. old-bsilkroad.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found
+
+267. plinko-game-uk.ing
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+268. poprawa-ruchu-pl.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 3 found
+
+269. plinkogame-pt.ing
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+270. pepeport.org
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 3 found
+
+271. riftech.fr
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found
+
+272. peppeport.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 3 found
+
+273. senam603.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 5 found
+
+274. studioexnovo.me
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 12 found
+
+275. sweepapp.io
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 7 found
+
+276. mfcgulf.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 7 found
+
+277. tobactos.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 2 found
+
+278. usdtguard.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 9 found
+
+279. valkyrievanguard.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 3 found
+
+280. vintage-clothes.ie
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 2 found
+
+281. vfghp.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+282. vanish-trade.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 1 found
+
+283. vtsyt.com
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+284. xerx.uk
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 1 found, Mentions well-known brands: 5 found
+
+285. timelesselegancebyennali.nl
+   Risk: HIGH (65/100)
+   Indicators: Contains credential harvesting phrases: 2 found, Mentions well-known brands: 4 found
+
+286. 7k-772.casino
+   Risk: HIGH (60/100)
+   Indicators: Mentions well-known brands: 1 found, No valid SSL certificate, Uses suspicious TLD: .casino
+
+287. ball000on.ink
+   Risk: HIGH (60/100)
+   Indicators: Mentions well-known brands: 5 found, No valid SSL certificate, Uses suspicious TLD: .ink
+
+288. akuwyspaskarbow.pl
+   Risk: HIGH (60/100)
+   Indicators: Contains login form, Mentions well-known brands: 2 found, No valid SSL certificate
+
+289. loancheckindia.com
+   Risk: HIGH (60/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Mentions well-known brands: 3 found
+
+290. nicekicks.fit
+   Risk: HIGH (60/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Mentions well-known brands: 3 found
+
+291. queengbr.pics
+   Risk: HIGH (60/100)
+   Indicators: Mentions well-known brands: 5 found, Online gambling/casino content: 1 found
+
+292. fermedenavecainc.com
+   Risk: HIGH (60/100)
+   Indicators: Contains high-risk phishing phrases: 1 found, Mentions well-known brands: 3 found
+
+293. chromobrands.com
+   Risk: MEDIUM (55/100)
+   Indicators: Mentions well-known brands: 6 found, Contains financial scam keywords: 1 found
+
+294. stocindiahkop.click
+   Risk: MEDIUM (55/100)
+   Indicators: Mentions well-known brands: 2 found, Contains financial scam keywords: 1 found
+
+295. blendfeel.biz
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 3 found, Uses suspicious TLD: .biz
+
+296. centriifugenews.blog
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 4 found, Uses suspicious TLD: .blog
+
+297. check-bills-cabinet.online
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 1 found, Uses suspicious TLD: .online
+
+298. faelxith.xyz
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 1 found, Uses suspicious TLD: .xyz
+
+299. erickrenatopsi.com.br
+   Risk: MEDIUM (50/100)
+   Indicators: Contains JavaScript redirects, Mentions well-known brands: 4 found
+
+300. glimmexar.art
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 1 found, Uses suspicious TLD: .art
+
+301. flexbucks.site
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 3 found, Uses suspicious TLD: .site
+
+302. kohinoorwakadprojects.in
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 3 found, Uses urgency/scarcity tactics: 1 found
+
+303. mhj333.live
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 1 found, Uses suspicious TLD: .live
+
+304. mhj333.blog
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 1 found, Uses suspicious TLD: .blog
+
+305. melarino.icu
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 6 found, Uses suspicious TLD: .icu
+
+306. loanalert.in
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 3 found, Uses urgency/scarcity tactics: 1 found
+
+307. myintent.in
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 4 found, Uses urgency/scarcity tactics: 1 found
+
+308. newyours.com
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 5 found, Uses urgency/scarcity tactics: 1 found
+
+309. playingmarket.online
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 5 found, Uses suspicious TLD: .online
+
+310. nona-nitres-minge.site
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 3 found, Uses suspicious TLD: .site
+
+311. powerwingame.online
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 5 found, Uses suspicious TLD: .online
+
+312. rapedlaymenbuba.fun
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 1 found, Uses suspicious TLD: .fun
+
+313. rmktelecom.store
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 1 found, Uses suspicious TLD: .store
+
+314. quixplendor.online
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 11 found, Uses suspicious TLD: .online
+
+315. shaqyrym.online
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 6 found, Uses suspicious TLD: .online
+
+316. sorryuaredrrrrned.sbs
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 1 found, Uses suspicious TLD: .sbs
+
+317. phexalith.site
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 4 found, Uses suspicious TLD: .site
+
+318. thryndrake.site
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 6 found, Uses suspicious TLD: .site
+
+319. veles-systems.online
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 1 found, Uses suspicious TLD: .online
+
+320. worldneh.top
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 5 found, Uses suspicious TLD: .top
+
+321. zefimora.icu
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 1 found, Uses suspicious TLD: .icu
+
+322. vaterixa.icu
+   Risk: MEDIUM (50/100)
+   Indicators: Mentions well-known brands: 3 found, Uses suspicious TLD: .icu
+
+323. amlpro.app
+   Risk: MEDIUM (45/100)
+   Indicators: Mentions well-known brands: 1 found, No valid SSL certificate
+
+324. jggtoday.pics
+   Risk: MEDIUM (45/100)
+   Indicators: Mentions well-known brands: 5 found, No valid SSL certificate
+
+325. nffkvv365.pics
+   Risk: MEDIUM (45/100)
+   Indicators: Mentions well-known brands: 5 found, No valid SSL certificate
+
+326. sweatbonanzaa.life
+   Risk: MEDIUM (45/100)
+   Indicators: Mentions well-known brands: 6 found, No valid SSL certificate
+
