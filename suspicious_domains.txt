@@ -1,0 +1,38 @@
+# Suspicious/Phishing Domains - High Priority List
+# Generated: 2025-11-14
+# Total: 24 domains
+# Source: monitor_14.txt analysis
+
+# HDFC Bank - 7 domains (CRITICAL)
+1883355comhdfc01.shop
+1883355comhdfc02.shop
+ashdfc.top
+hdfcbank.vip
+hdfcergorenewalinsurancepolicys.in
+hdfcergorenewpolicysinsurances.in
+hdfcloanservies.in
+
+# ICICI Bank - 4 domains (HIGH)
+icicibankbif.com
+icicidirect.xyz
+iciciprulife.xyz
+online-iciciprulife.com
+
+# SBI YONO - 7 domains (HIGH)
+allyonostore.in.net
+allyonostore.info
+allyonostore.me
+newyonoapps.in
+newyonorummy.in
+allnewyonogames.org
+allyonorummyapps.com
+
+# IRCTC - 2 domains (HIGH)
+irctclogin.co.in
+pnrstatusirctc.in
+
+# Airtel - 4 domains (HIGH)
+airtel-in.org
+airtel-pay.asia
+airtelmail.in.net
+airtelxstreamfiberconnectionbhopal.in
